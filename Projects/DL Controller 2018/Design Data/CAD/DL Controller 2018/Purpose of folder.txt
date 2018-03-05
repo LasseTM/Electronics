@@ -1,0 +1,3 @@
+Establish a folder in git for storing CAD project related content for:
+
+	DL Controller 2018

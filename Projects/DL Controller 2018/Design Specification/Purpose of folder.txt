@@ -1,0 +1,1 @@
+Establish a folder in git for storing Design Specification related content
